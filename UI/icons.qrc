@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="images">
+    <file>resources/clear.png</file>
+    <file>resources/coin.png</file>
+    <file>resources/Correct.png</file>
+    <file>resources/Correct_Incorrect_Symbols_Vector_Icons.png</file>
+    <file>resources/house.png</file>
+    <file>resources/Incorrect.png</file>
+    <file>resources/podium.png</file>
+    <file>resources/score.png</file>
+    <file>resources/send-button.png</file>
+    <file>resources/settings.png</file>
+    <file>resources/youtuber.png</file>
+  </qresource>
+</RCC>
